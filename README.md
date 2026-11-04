@@ -3,7 +3,7 @@ Salut, je suis Nguyen Minh Tri 👋<br>
 Étudiant en Cybersécurité à l'INSA Centre Val de Loire. Passionné par le DevSecOps, l'IA et le Cloud.
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/nguyen-minh-tri) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:minh_tri.nguyen@insa-cvl.fr) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/nguyen-minh-tri-alxq17) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:minh_tri.nguyen@insa-cvl.fr) 
 
 ## 💻 Core Tech Stack
 *   **🛡️ DevSecOps & Infra :** Docker, Kubernetes, Terraform, Ansible, Vagrant, CI/CD
@@ -12,4 +12,4 @@ Salut, je suis Nguyen Minh Tri 👋<br>
 *   **⚙️ Backend & Base de données :** FastAPI, C, PostgreSQL, Redis, MongoDB
 
 ---
-[![](https://komarev.com/ghpvc/?username=alex-18705&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=alxq17&icon=0&color=0)](https://visitcount.itsvg.in)
